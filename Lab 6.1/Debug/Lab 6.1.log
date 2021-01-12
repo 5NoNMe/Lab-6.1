@@ -1,0 +1,4 @@
+﻿E:\Програми\VIsual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab 6.1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Lab 6.1 2.cpp
+C:\Users\Noname\source\repos\Lab 6.1\Lab 6.1\Lab 6.1 2.cpp(43,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab 6.1.vcxproj -> C:\Users\Noname\source\repos\Lab 6.1\Debug\Lab 6.1 2.exe
